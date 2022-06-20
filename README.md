@@ -1,16 +1,28 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</div>
+<div id="badges" align = "center">
+  <a href="https://linkedin.com/in/sai-madhuri-kandula/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://ksaimadhuri555.wixsite.com/analytics1">
+    <img src = "https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
+<h1 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"/>
+</h1>
 
-<!--
-**saimadhu27/saimadhu27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :woman_technologist: About Me :
+I am a aspiring Data Analyst from India.
+- :🔭 I’m currently working on building my skills and doing projects
 
-Here are some ideas to get you started:
+- :seedling: I'm looking to learn Data Science content too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :zap: In my free time, I read tech articles on medium.
+
+- :mailbox:Reach me at: saimadhurikandula@gmail.com
+
+
+
