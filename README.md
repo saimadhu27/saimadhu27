@@ -22,7 +22,7 @@ I am a aspiring Data Analyst from India.
 
 - :zap: In my free time, I read tech articles on medium.
 
-- :mailbox:Reach me at: saimadhurikandula@gmail.com
+- :mailbox:Reach me out at: saimadhurikandula@gmail.com
 
 
 
