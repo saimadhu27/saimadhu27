@@ -25,5 +25,5 @@ I am a aspiring Data Analyst from India.
 - :mailbox:Reach me out at: saimadhurikandula@gmail.com
 
 
-
--- <img src="https://komarev.com/ghpvc/?username=saimadhu27&style=flat-square&color=blue" alt=""/>
+//
+<img src="https://komarev.com/ghpvc/?username=saimadhu27&style=flat-square&color=blue" alt=""/>
