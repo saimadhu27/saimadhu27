@@ -15,10 +15,8 @@
 </h1>
 
 ### :woman_technologist: About Me :
-I am a aspiring Data Analyst from India.
-- :🔭 I’m currently working on building my skills and doing projects
-
-- :seedling: I'm looking to learn Data Science content too.
+I am a aspiring Data Scientist
+- :🔭 I’m currently doing my masters in Data Science at University of Arizona.
 
 - :zap: In my free time, I read tech articles on medium.
 
