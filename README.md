@@ -5,9 +5,6 @@
   <a href="https://linkedin.com/in/sai-madhuri-kandula/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://ksaimadhuri555.wixsite.com/analytics1">
-    <img src = "https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
-  </a>
 </div>
 <h1 align="center">
   Hey there
